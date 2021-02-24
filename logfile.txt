@@ -1,0 +1,15 @@
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Error message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Critical message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Error message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Error message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Critical message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Error message
+2021-02-24 12:05:06 WARNING - Warning message
+2021-02-24 12:05:06 WARNING - Error message
+2021-02-24 12:05:06 WARNING - Warning message
